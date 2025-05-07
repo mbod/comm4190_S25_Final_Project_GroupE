@@ -25,7 +25,7 @@ Most GPT betting bots offer generic advice with little structure or personalizat
 - **Web search for injury reports and trends** limited to the past 24 hours  
 - **Session continuity** using persistent storage per username  
 - **Smart welcome-back messages** referencing past bets  
-- **Gradio front-end UI** with a polished blue theme
+- **Gradio front-end UI**
 
 ## Research & Evaluation
 
