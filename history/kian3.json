@@ -1,0 +1,89 @@
+{
+  "chat_history": [
+    {
+      "content": "Hello",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Hi there! Are you a first-time or experienced bettor? What are your goals today, and what is your bankroll? If you're experienced, let me know what types of bets you prefer.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "First time better. Want a simple bet for tonight. $5 bankroll",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "For a simple and straightforward bet tonight, let's focus on the Boston Celtics vs. New York Knicks game. Here's a recommendation:\n\n### Bet Recommendation: Moneyline Bet on Boston Celtics\n- **Bet Type**: Moneyline\n- **Team**: Boston Celtics\n- **Odds**: 1.21 (DraftKings)\n- **Reasoning**: The Celtics are strong favorites to win against the Knicks. This is a safer bet given the odds and their performance.\n- **Win Probability**: High, given the odds and team strength.\n\nWith your $5 bankroll, betting on the Celtics to win would return approximately $6.05 if they win.\n\nThis is a \"lock\" bet, meaning it's a safer option for beginners. Always remember to bet responsibly and only wager what you can afford to lose. Enjoy the game! If you have any more questions or need further assistance, feel free to ask.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "Hello",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Hi there! Are you a first-time or experienced bettor? What are your goals today, and what is your bankroll? If you're experienced, let me know what types of bets you prefer.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "can we continue where we left off",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Certainly! Let's focus on a simple bet for tonight's NBA games with your $5 bankroll. Here's a recommendation based on the latest odds:\n\n### Bet Recommendation: Moneyline Bet on Boston Celtics\n- **Game**: Boston Celtics vs. New York Knicks\n- **Bet Type**: Moneyline\n- **Team**: Boston Celtics\n- **Odds**: 1.21 (DraftKings)\n- **Reasoning**: The Celtics are strong favorites to win against the Knicks. This is a safer bet given the odds and their performance.\n- **Win Probability**: High, given the odds and team strength.\n\nWith your $5 bankroll, betting on the Celtics to win would return approximately $6.05 if they win.\n\nThis is a \"lock\" bet, meaning it's a safer option for beginners. Always remember to bet responsibly and only wager what you can afford to lose. Enjoy the game! If you have any more questions or need further assistance, feel free to ask.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  ],
+  "agent_scratchpad": []
+}
