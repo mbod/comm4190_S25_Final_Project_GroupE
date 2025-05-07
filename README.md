@@ -1,8 +1,9 @@
-# COMM4190 (Spring 2005) Final Project; ProfitPlay <img src="ProfitPlay_Logo.png" width="10%"/>
+# COMM4190 (Spring 2005) Final Project; ProfitPlay
 
 ## Project Group E
 
 ### An NBA Betting Advisor by Kian Ambrose and Ethan Roytman
+<img src="ProfitPlay_Logo.png" width="30%"/>
 ----
 
 This project is a customized ChatGPT-powered sports betting bot built specifically for NBA basketball betting, modeled after DraftKings-style wagers (e.g., spreads, moneylines, and player props). Our goal is to combine structured prompting, real-time betting data, and personalized user interaction to deliver a smart, adaptive betting experience.
