@@ -1,4 +1,4 @@
-# COMM4190 (Spring 2005) Final Project; ProfitPlay <img src="ProfitPlay Image.png" width="10%"/>
+# COMM4190 (Spring 2005) Final Project; ProfitPlay <img src="ProfitPlay_Logo.png" width="10%"/>
 
 ## Project Group E
 
