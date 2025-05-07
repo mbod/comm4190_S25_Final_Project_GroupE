@@ -1,0 +1,68 @@
+{
+  "chat_history": [
+    {
+      "content": "Hello",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Hello! I'm your specialized basketball betting assistant, here to help you with NBA betting strategies and advice. Is this your first time betting, or are you an experienced bettor?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "Experienced",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Great! As an experienced bettor, you likely have specific strategies or types of bets you prefer. What are your betting goals today? Are you looking for general strategy advice, insights on current bets, or perhaps creating a parlay? Also, could you share your bankroll for today? This will help me tailor my recommendations to your preferences and budget.",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    },
+    {
+      "content": "I want to spend roughly 50 bucks and make 5 high ev bets",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    },
+    {
+      "content": "Based on the latest odds, here are five high expected value (EV) bets that you can consider for your $50 bankroll. I'll categorize them as \"lock\" or \"risk\" based on their probability and potential payout:\n\n1. **Boston Celtics vs. New York Knicks**  \n   - **Bet:** New York Knicks +10.5 spread  \n   - **Odds:** 1.91 (DraftKings)  \n   - **Category:** Risk  \n   - **Rationale:** The Knicks have been competitive in recent games, and covering a 10.5-point spread offers good value.  \n   - **Suggested Bet Amount:** $10\n\n2. **Oklahoma City Thunder vs. Denver Nuggets**  \n   - **Bet:** Over 230.0 total points  \n   - **Odds:** 1.89 (BetOnline.ag)  \n   - **Category:** Risk  \n   - **Rationale:** Both teams have shown high-scoring potential, and the over is slightly undervalued.  \n   - **Suggested Bet Amount:** $10\n\n3. **Minnesota Timberwolves vs. Golden State Warriors**  \n   - **Bet:** Golden State Warriors +10.5 spread  \n   - **Odds:** 1.91 (FanDuel)  \n   - **Category:** Risk  \n   - **Rationale:** The Warriors have been resilient, and covering a 10.5-point spread is feasible.  \n   - **Suggested Bet Amount:** $10\n\n4. **Indiana Pacers vs. Cleveland Cavaliers**  \n   - **Bet:** Indiana Pacers moneyline  \n   - **Odds:** 2.22 (LowVig.ag)  \n   - **Category:** Risk  \n   - **Rationale:** The Pacers have a strong home record and present a good upset opportunity.  \n   - **Suggested Bet Amount:** $10\n\n5. **Boston Celtics vs. New York Knicks**  \n   - **Bet:** Under 211.5 total points  \n   - **Odds:** 1.91 (DraftKings)  \n   - **Category:** Risk  \n   - **Rationale:** Both teams have shown defensive strengths, making the under a viable option.  \n   - **Suggested Bet Amount:** $10\n\nThese bets are designed to maximize your potential returns while balancing risk. Each bet is $10, totaling your $50 bankroll. Would you like more details on any specific bet, or is there anything else I can assist you with?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  ],
+  "agent_scratchpad": []
+}
