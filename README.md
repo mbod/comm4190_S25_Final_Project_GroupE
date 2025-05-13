@@ -49,7 +49,7 @@ Compared to other sports betting bots:
 1. Enter a username to start or resume your betting session  
 2. Answer a few onboarding questions about your experience and goals  
 3. Get personalized NBA betting picks with probabilities and explanations  
-4. Return later — the assistant remembers your history and adapts accordingly
+4. Return later and enter your username — the assistant remembers your history and adapts accordingly
 
 
 
