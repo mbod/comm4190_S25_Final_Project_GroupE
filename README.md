@@ -22,7 +22,7 @@ Most GPT betting bots offer generic advice with little structure or personalizat
 
 - **Custom prompting framework** built for U.S. sports betting workflows  
 - **Live odds API integration** for accurate, real-time betting lines  
-- **Web search for injury reports and trends** limited to the past 24 hours  
+- **Web search for injury reports and trends** 
 - **Session continuity** using persistent storage per username  
 - **Smart welcome-back messages** referencing past bets  
 - **Gradio front-end UI**
